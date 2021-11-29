@@ -1,0 +1,3 @@
+/var/lib/jenkins/workspace/demobackend/src/test/java/com/martin/backend/controllers/BackendControllerTest.java
+/var/lib/jenkins/workspace/demobackend/src/test/java/com/martin/backend/service/RepositoryServiceTest.java
+/var/lib/jenkins/workspace/demobackend/src/test/java/com/martin/backend/config/ApplicationConfigTest.java
